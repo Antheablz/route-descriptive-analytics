@@ -1,4 +1,4 @@
-# Tests for `SENG 265`, Assignment #2
+# Tests for `Software Engineering Course`, Assignment #2
 
 ## Tests
 

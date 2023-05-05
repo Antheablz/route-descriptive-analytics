@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 Created on Wed Feb 08:50:21 2023
-@author: rivera
+@author: TA (hidden for privacy)
 """
 from sys import argv as args
 import re

@@ -10,7 +10,7 @@ import sys
 Created on Wed Feb 8 14:44:33 2023
 Based on: https://www.kaggle.com/datasets/arbazmohammad/world-airports-and-airlines-datasets
 Sample input: --AIRLINES="airlines.yaml" --AIRPORTS="airports.yaml" --ROUTES="routes.yaml" --QUESTION="q1" --GRAPH_TYPE="bar"
-@author: rivera
+
 @author: Anthea Blais V00959149
 """
 
